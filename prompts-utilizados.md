@@ -14,7 +14,7 @@ O objetivo é aprender a formular instruções claras para ferramentas de IA e a
 
 Atue como professor de Python. Explique o funcionamento de if, elif e else com exemplos práticos. Depois, proponha três exercícios para que eu possa praticar.
 
-**Resultado:** Aguardando teste e avaliação.
+**Resultado:** Foram realizados três exercícios práticos de Python com foco em estruturas condicionais (if, elif e else), utilizando Inteligência Artificial como ferramenta de apoio ao aprendizado. As atividades permitiram praticar lógica de programação, construção de condições e diferentes caminhos de execução do código.
 
 ## 🗄️ Exemplo 2 — SQL
 
